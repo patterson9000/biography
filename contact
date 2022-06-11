@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital@1&display=swap" rel="stylesheet">
+   <link rel="stylesheet" href="mystyle2.css">
+    <title>contact</title>
+</head>
+
+<body>
+    <header>
+
+        <main>
+    <h1>Bret Patterson Biography</h1>
+    <nav class="menu">
+        <a href="index2.html">Home</a>
+        <a href="services.html">Services</a>
+        <a href="contact.html">Contact</a>
+    </nav>
+</header>
+<h3>contact information</h3>
+<p style="color:black;">📫 mailing address: 9**1 Mira Mesa blvd. san diego, CA 92126</p>
+<p style="color:black;">📧 email:patterson.bret@*****.com</p>
+<p style="color:black;">☎️ phone:317-XXX-XXXX</p>
+</main>
+
+    <footer>
+        <p style="color:aliceblue;">All the copyrights are reserved &copy; 2022 Bret Patterson</p>
+        <p style="color:aliceblue;">San Deiego, CA</p>
+        <nav class="social-networks">
+            <a href="#">facebook</a>
+            <a href="#">instagram</a>
+            <a href="#">twitter</a>
+        </nav>
+    </footer>
+        
+</body>
+</html>
